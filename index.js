@@ -8,4 +8,3 @@ function multiple() {number *= 5}
 
 function divide() {number /=5}
 
-number++

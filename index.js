@@ -8,6 +8,4 @@ function multiple() {number *= 5}
 
 function divide() {number /=5}
 
-function add5() {number +=5}
-
-divideBy3() 
+parseInt("2", 10)

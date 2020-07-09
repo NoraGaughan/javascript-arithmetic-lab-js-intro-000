@@ -1,10 +1,10 @@
 var number = 10
 
-function add(a, b) {number += 5}
+function add(a, b) {return a + b}
 
-function subtract() {number -=5}
+function subtract(a, b) {return a-b}
 
-function multiple() {number *= 5}
+function multiple(a, b) {return a * b}
 
-function divide() {number /=5}
+function divide(a, b) {return a / b}
 

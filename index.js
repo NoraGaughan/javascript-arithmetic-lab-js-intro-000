@@ -7,3 +7,4 @@ function subtract() {number -=5}
 function multiple() {number *= 5}
 
 function divide() {number /=5}
+function add5() {number +=5}
